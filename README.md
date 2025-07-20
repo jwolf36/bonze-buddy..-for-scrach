@@ -1,2 +1,3 @@
 # bonze-buddy..-for-scrach
 Bonzi buddy is a unsafe web that can harm your pc..... 
+so i made it safe but do not copy my folders
